@@ -217,6 +217,6 @@ Add this to your application's `shard.yml`:
 ```yaml
 dependencies:
   seg:
-    github: soveran/seg-crystal
+    github: soveran/seg
     branch: master
 ```
