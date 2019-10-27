@@ -3,6 +3,8 @@ Seg
 
 Segment matcher for paths.
 
+![CI](https://github.com/soveran/seg/workflows/Crystal%20CI/badge.svg)
+
 Description
 -----------
 
